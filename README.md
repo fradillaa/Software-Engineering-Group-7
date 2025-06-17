@@ -19,6 +19,10 @@ Mimico: Bridging Communication Gaps with Intelligent Sign Language Translation
 | `test/`                 | Folder pengujian sistem |
 | `myvenv/`               | Virtual environment lokal (tidak diunggah) |
 
+## 📁 Folder `images/`
+
+Folder ini berisi aset gambar untuk tampilan website dan fitur kamus isyarat:
+
 ## 📊 Dataset
 
 Dataset ini dibuat sendiri untuk keperluan proyek akhir.
